@@ -6,7 +6,7 @@
 🏆 ACM-ICPC Dhaka Regional & NCPC Participant | Deep Learning Project – 100% Accuracy Potato Disease Classification<br/>
 🌱 Always learning new tech & building impactful projects<br/>
 
-Currently Exploring
+Currently Exploring<br/>
 Node.js
 Flutter 
 
