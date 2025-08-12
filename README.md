@@ -6,14 +6,13 @@
 🏆 ACM-ICPC Dhaka Regional & NCPC Participant | Deep Learning Project – 100% Accuracy Potato Disease Classification<br/>
 🌱 Always learning new tech & building impactful projects<br/>
 
-💬Currently Exploring<br/>
-Node.js<br/>
-Flutter<br/>
+#### 💬Currently Exploring<br/>
+ Flutter<br/>
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=tomu03&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=tomu03&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-🎯 Skill Badges
+#### 🎯 Skill Badges
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -36,12 +35,13 @@ Flutter<br/>
 
 
 
-📊 GitHub Stats & Activity Badges<br/>
+#### 📊 GitHub Stats & Activity Badges<br/>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tomu03&layout=compact&theme=dracula)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tomu03&theme=dracula)<br/>
 
-**🌱 Connect Badges**
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tomu03&theme=dracula)
+
+#### **🌱 Connect Badges**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanjidul-tomu)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:369tomu@gmail.com)
