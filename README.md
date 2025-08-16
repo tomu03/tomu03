@@ -37,11 +37,10 @@
 
 #### 📊 GitHub Stats & Activity Badges<br/>
 
-![](https://nirzak-streak-stats.vercel.app/?user=tomu03&theme=dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=tomu03&theme=dark&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tomu03&layout=compact&theme=dracula)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tomu03&theme=dracula)
 
 #### **🌱 Connect Badges**
 
